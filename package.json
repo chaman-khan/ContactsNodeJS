@@ -1,5 +1,5 @@
 {
-  "name": "mycontacts-backend-api",
+  "name": "mycontacts_backend_api",
   "version": "1.0.0",
   "description": "This is express project for my contacts backend api",
   "main": "server.js",
